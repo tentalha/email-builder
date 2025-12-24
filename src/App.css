@@ -1,0 +1,6 @@
+/* App container - no padding needed as components handle their own layout */
+#root {
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
